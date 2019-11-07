@@ -20,7 +20,13 @@ const db = {
       name: "John Doe",
       email: "john@doe.com",
       password: "abc123",
-    }
+	},
+	{
+		id: "0bace3c4-0062-48b4-bd54-c1b7270e654e",
+		name: "Jason BackendTeacher",
+		email: "jason@backendteacher.com",
+		password: "abc123",
+	  }
   ]
 }
 
